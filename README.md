@@ -2,10 +2,7 @@
 
 - 🔭 I’m currently working on godot
 - 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on aha 
-- 🤔 I’m looking for help with ninja trollface memes
 - 💬 Ask me about godot (maybe)
-- 📫 How to reach me: discord
-- 😄 Pronouns: ninja / trollface
+- 📫 How to reach me: discord (uselesnik#7787)
 - ⚡ Fun fact: dondola member
 ( .___.)
